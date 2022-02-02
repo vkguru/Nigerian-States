@@ -5,7 +5,7 @@ Help interns understand how to work collaboratively remotely using git branch, m
 ## Instructions
 
 - Fork the repo.
-- Clone the forked repo on your own repository (which would now be on your github account).
+- Clone the forked repository (which would now be in your github account).
 - `cd` into the folder "Nigerian-States.
 - Create your own branch a give it a name e.g dev_chisom
 - Now, open the States.md file and add your own part to complete the lists of states.
