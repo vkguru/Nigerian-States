@@ -7,18 +7,18 @@ Example <br/>
 
 ---
 
-Abia
-Adamawa
-Akwa Ibom
-Anambra
-Bauchi
-Bayelsa
-Benue
-Borno
-Cross River
-Delta
-Ebonyi
-Edo State
+Abia,
+Adamawa,
+Akwa Ibom,
+Anambra,
+Bauchi,
+Bayelsa,
+Benue,
+Borno,
+Cross River,
+Delta,
+Ebonyi,
+Edo State,
 
 ---
 
