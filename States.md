@@ -23,11 +23,21 @@ Edo State,
 ---
 
 Chinonye (Add Ekiti to Nasarawa)<br/>
+Ekiti
+Enugu
+Gombe
+Imo
+Jigawa
+Kaduna
+Kano
+Kastina
+Kebbi
+Kogi
+Kwara
+Lagos
+Nasarawa
 
 ---
-
-
-(Add here)
 
 ---
 
