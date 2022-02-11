@@ -3,9 +3,7 @@ Kindly add the states beneath the line after your name. Don't delete anything (e
 
 ---
 
-Example <br/>
-
----
+Linus (Fixed it)<br/>
 
 Abia,
 Adamawa,
@@ -39,7 +37,6 @@ Nasarawa
 
 ---
 
----
 
 Ebube(Add Niger to Zamfara) <br/>
 Niger
@@ -54,5 +51,3 @@ Taraba
 Zamfara
 FCT 
 
-
-(Add here)
