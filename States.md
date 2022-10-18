@@ -51,3 +51,13 @@ Taraba
 Zamfara
 FCT 
 
+Lagos state
+   Her Cities by Adeyemi Ayodele
+
+Badagry
+Epe
+Ikeja
+Ikorodu
+Lagos
+Mushin
+Shomolu
