@@ -61,17 +61,3 @@ Ikorodu
 Lagos
 Mushin
 Shomolu
-
-<br/>
-Ogun state
-   Her cities by Onyejose Fortune
-
-   Ago-Iwoye 
-   Ayetoro
-   Ifo 
-   Sagamu 
-   Sango 
-   Ota 
-   Abeokuta 
-   Agbara 
-   Ajebo 
